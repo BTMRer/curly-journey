@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['Tic_Tac_Toc_object.py'],
-             pathex=['C:\\Users\\alvin\\PycharmProjects\\Train Python\\Tic Tac Toe Game'],
+             pathex=['C:\\Users\\alvin\\PycharmProjects\\Train Python\\Tic Tac Toe Game\\curly-journey\\Tic Tac Toe'],
              binaries=[],
              datas=[],
              hiddenimports=[],

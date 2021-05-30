@@ -1,5 +1,5 @@
 ('C:\\Users\\alvin\\PycharmProjects\\Train Python\\Tic Tac Toe '
- 'Game\\dist\\Tic_Tac_Toc_object.exe',
+ 'Game\\curly-journey\\Tic Tac Toe\\dist\\Tic_Tac_Toc_object.exe',
  True,
  False,
  False,
@@ -12,7 +12,7 @@
  'Tic_Tac_Toc_object.pkg',
  [('PYZ-00.pyz',
    'C:\\Users\\alvin\\PycharmProjects\\Train Python\\Tic Tac Toe '
-   'Game\\build\\Tic_Tac_Toc_object\\PYZ-00.pyz',
+   'Game\\curly-journey\\Tic Tac Toe\\build\\Tic_Tac_Toc_object\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'c:\\users\\alvin\\appdata\\local\\programs\\python\\python39\\lib\\struct.pyo',
@@ -34,7 +34,7 @@
    'PYSOURCE'),
   ('Tic_Tac_Toc_object',
    'C:\\Users\\alvin\\PycharmProjects\\Train Python\\Tic Tac Toe '
-   'Game\\Tic_Tac_Toc_object.py',
+   'Game\\curly-journey\\Tic Tac Toe\\Tic_Tac_Toc_object.py',
    'PYSOURCE'),
   ('VCRUNTIME140.dll',
    'c:\\users\\alvin\\appdata\\local\\programs\\python\\python39\\VCRUNTIME140.dll',
@@ -84,22 +84,24 @@
   ('_ctypes',
    'c:\\users\\alvin\\appdata\\local\\programs\\python\\python39\\DLLs\\_ctypes.pyd',
    'EXTENSION'),
-  ('libcrypto-1_1.dll',
-   'c:\\users\\alvin\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
-   'BINARY'),
   ('libssl-1_1.dll',
    'c:\\users\\alvin\\appdata\\local\\programs\\python\\python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\alvin\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
    'BINARY'),
   ('libffi-7.dll',
    'c:\\users\\alvin\\appdata\\local\\programs\\python\\python39\\DLLs\\libffi-7.dll',
    'BINARY'),
   ('base_library.zip',
    'C:\\Users\\alvin\\PycharmProjects\\Train Python\\Tic Tac Toe '
-   'Game\\build\\Tic_Tac_Toc_object\\base_library.zip',
+   'Game\\curly-journey\\Tic Tac '
+   'Toe\\build\\Tic_Tac_Toc_object\\base_library.zip',
    'DATA'),
   ('Tic_Tac_Toc_object.exe.manifest',
    'C:\\Users\\alvin\\PycharmProjects\\Train Python\\Tic Tac Toe '
-   'Game\\build\\Tic_Tac_Toc_object\\Tic_Tac_Toc_object.exe.manifest',
+   'Game\\curly-journey\\Tic Tac '
+   'Toe\\build\\Tic_Tac_Toc_object\\Tic_Tac_Toc_object.exe.manifest',
    'BINARY'),
   ('pyi-windows-manifest-filename Tic_Tac_Toc_object.exe.manifest',
    '',
@@ -107,7 +109,7 @@
  [],
  False,
  False,
- 1622399806,
+ 1622410850,
  [('run.exe',
    'c:\\users\\alvin\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])
