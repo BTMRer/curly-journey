@@ -1,2 +1,2 @@
-# curly-journey
+# TicTacToe
 First working project here, just learning.
