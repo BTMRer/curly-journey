@@ -91,6 +91,8 @@ class board:
             display.run_program()
         elif choice.lower() == "n":
             quit()
+        else:
+            display.game_again()
 
     # running the program
     @staticmethod
